@@ -1,7 +1,7 @@
 This repository contains the AMICAS Simulator, a flexible simulation environment 
 for exploring patient databases, surface response models, disturbance profiles, and more. 
 The simulator allows users to adjust key parameters and settings, 
-making it adaptable to a range of simulation needs.
+making it adaptable to various simulation needs.
 
 Getting Started:
 
@@ -16,9 +16,13 @@ Features:
 The simulator offers flexibility in key areas, including:
 
 Patient databases – Easily select different databases based on your requirements.
+
 Surface response models – Choose from various models to match your simulation needs.
+
 Disturbance profiles – Adjust disturbance profiles to simulate different scenarios.
+
 Anesthesiologist interaction – Option to include an anesthesiologist in the simulation loop.
+
 Patient selection – Choose specific patients or patient groups for tailored simulation experiences.
 
 How to Use the Simulator:
