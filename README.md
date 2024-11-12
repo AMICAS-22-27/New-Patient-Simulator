@@ -3,6 +3,7 @@ for exploring patient databases, surface response models, disturbance profiles, 
 The simulator allows users to adjust key parameters and settings, 
 making it adaptable to various simulation needs.
 
+
 Getting Started:
 
 To access all simulator files, please download Simulator_AMICAS.rar from this repository. 
@@ -10,6 +11,7 @@ Once downloaded, extract the files to your desired directory.
 
 The main program file, MAIN_PROGRAM_AMICAS.m, is the central control point for the simulator. 
 Here, users can configure and customize various aspects of the simulation.
+
 
 Features:
 
@@ -24,6 +26,7 @@ Disturbance profiles – Adjust disturbance profiles to simulate different scena
 Anesthesiologist interaction – Option to include an anesthesiologist in the simulation loop.
 
 Patient selection – Choose specific patients or patient groups for tailored simulation experiences.
+
 
 How to Use the Simulator:
 
